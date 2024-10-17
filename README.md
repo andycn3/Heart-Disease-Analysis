@@ -1,2 +1,1 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+This is a group project completed to learn about machine learning models on data sets. We used a KNN classification model to analyze the correlation of heart disease predictors to heart disease. The entire report is included in the analysis, including step by step documentation and analysis of data.
